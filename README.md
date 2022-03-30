@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hx-ux
+- 👋 Hi, I’m Jakob
 - 📫 How to reach me -> nnsbndDEV@gmail.com
 - 👋 [Check out my art stuff](https://x0x0x0me.netlify.app/)
 <!---
